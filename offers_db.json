@@ -1,0 +1,1710 @@
+[
+    {
+        "offer_id": "SHO-HDFC-001",
+        "offer_name": "HDFC Festive Shopping Fiesta",
+        "offer_type": "shopping",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 10% instant discount on electronics and fashion. Max discount is ₹2,000.",
+        "eligibility_criteria": "Valid on HDFC Credit Cards. Min transaction ₹7,500.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 2000,
+        "minimum_spend": 7500,
+        "minimum_salary": 40000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Croma",
+            "Vijay Sales",
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "SHO-HDFC-002",
+        "offer_name": "HDFC SmartBuy Myntra Offer",
+        "offer_type": "shopping",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 15% instant discount on fashion on Myntra. Maximum discount is ₹750.",
+        "eligibility_criteria": "Valid on HDFC Bank Credit and Debit Cards. Min transaction ₹2,500.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 750,
+        "minimum_spend": 2500,
+        "minimum_salary": 25000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-003",
+        "offer_name": "ICICI MakeMyTrip Travel Rewards",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Earn 5x reward points on all international flight and hotel bookings on MakeMyTrip.",
+        "eligibility_criteria": "Applicable on ICICI Bank Sapphiro and Coral Credit Cards. Annual fee applies.",
+        "benefit_type": "reward_points",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": null,
+        "minimum_spend": 1000,
+        "minimum_salary": 75000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "MakeMyTrip"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-004",
+        "offer_name": "ICICI Goibibo Domestic Discount",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹750 instant discount on domestic hotel bookings on Goibibo.",
+        "eligibility_criteria": "Valid on ICICI Bank Debit Cards. Min booking value is ₹5,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 750,
+        "minimum_spend": 5000,
+        "minimum_salary": 20000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "Goibibo"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-005",
+        "offer_name": "SBI Card BigBasket Bonus",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 10% cashback on all grocery purchases at BigBasket. Maximum cashback is ₹200.",
+        "eligibility_criteria": "Valid for all SBI Credit Card users. Min transaction ₹1,500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 200,
+        "minimum_spend": 1500,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "BigBasket"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-006",
+        "offer_name": "SBI Card More Retail Discount",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Enjoy a 7.5% instant discount on purchases at More retail stores. Minimum transaction ₹2,000.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards. Once per week.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.075,
+        "maximum_benefit": 300,
+        "minimum_spend": 2000,
+        "minimum_salary": 20000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "More Retail Stores"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-007",
+        "offer_name": "Axis Bank Fuel Surcharge Waiver",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Enjoy a 1% fuel surcharge waiver on transactions between ₹400 and ₹4,000 at any petrol pump.",
+        "eligibility_criteria": "Valid on all Axis Bank Credit and Debit Cards. Capped at ₹400 per cycle.",
+        "benefit_type": "surcharge_waiver",
+        "benefit_multiplier": 0.01,
+        "maximum_benefit": 400,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "All petrol pumps"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-008",
+        "offer_name": "Axis Bank IOCL Fuel Card",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 2.5% cashback on all fuel spends at IOCL pumps. Minimum transaction of ₹500.",
+        "eligibility_criteria": "Valid on Axis Bank IOCL Co-branded Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.025,
+        "maximum_benefit": 200,
+        "minimum_spend": 500,
+        "minimum_salary": 30000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "IOCL Petrol Pumps"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-009",
+        "offer_name": "ICICI Zomato Dining Offer",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat 20% discount on food orders from Zomato. Maximum discount is ₹150.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards. Can be used twice a month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 150,
+        "minimum_spend": 250,
+        "minimum_salary": 15000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "Zomato"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-010",
+        "offer_name": "ICICI Bank Culinary Treats",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Enjoy 15% off at all participating restaurants. Maximum discount of ₹500.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 500,
+        "minimum_spend": 1000,
+        "minimum_salary": 30000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Various Restaurants"
+        ]
+    },
+    {
+        "offer_id": "ENT-SBI-011",
+        "offer_name": "SBI Card BookMyShow Offer",
+        "offer_type": "entertainment",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 15% instant discount on movie tickets on BookMyShow. Max discount is ₹200.",
+        "eligibility_criteria": "Valid on SBI SimplyCLICK Credit Cards. Min booking ₹400.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 200,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "BookMyShow"
+        ]
+    },
+    {
+        "offer_id": "ENT-SBI-012",
+        "offer_name": "SBI Card PVR Cinemas BOGO",
+        "offer_type": "entertainment",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a 'Buy One Get One Free' offer on movie tickets at PVR Cinemas on weekends. Max discount is ₹250 per ticket.",
+        "eligibility_criteria": "Valid on SBI Prime Credit Cards.",
+        "benefit_type": "bogo",
+        "benefit_multiplier": 1.0,
+        "maximum_benefit": 250,
+        "minimum_spend": 250,
+        "minimum_salary": 60000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "PVR Cinemas"
+        ]
+    },
+    {
+        "offer_id": "BIL-HDFC-013",
+        "offer_name": "HDFC BillPay Rewards",
+        "offer_type": "bills",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 5% cashback on utility bill payments via the HDFC Bank app. Max cashback of ₹100.",
+        "eligibility_criteria": "For all HDFC Bank account holders. Min bill value ₹500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 15000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "All major utility providers"
+        ]
+    },
+    {
+        "offer_id": "BIL-HDFC-014",
+        "offer_name": "HDFC Fastag Recharge Offer",
+        "offer_type": "bills",
+        "bank_name": "HDFC",
+        "offer_details_text": "Earn 20% cashback on your first FASTag recharge of the month. Max cashback is ₹100.",
+        "eligibility_criteria": "For all HDFC Bank FASTag users.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "HDFC FASTag"
+        ]
+    },
+    {
+        "offer_id": "SHO-ICICI-015",
+        "offer_name": "ICICI Amazon Pay Offer",
+        "offer_type": "shopping",
+        "bank_name": "ICICI",
+        "offer_details_text": "Earn 5% unlimited cashback on all Amazon purchases for Prime members.",
+        "eligibility_criteria": "Valid on Amazon Pay ICICI Bank Credit Card.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": null,
+        "minimum_spend": 1,
+        "minimum_salary": 45000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "Amazon"
+        ]
+    },
+    {
+        "offer_id": "SHO-ICICI-016",
+        "offer_name": "ICICI Pockets App Shopping",
+        "offer_type": "shopping",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹100 cashback on a shopping transaction of ₹1,000 or more via the Pockets app.",
+        "eligibility_criteria": "Valid for ICICI Pockets wallet users. Once per month.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": null,
+        "maximum_benefit": 100,
+        "minimum_spend": 1000,
+        "minimum_salary": 10000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "All online merchants accepting Pockets"
+        ]
+    },
+    {
+        "offer_id": "TRV-AXIS-017",
+        "offer_name": "Axis Bank Travel Bonanza",
+        "offer_type": "travel",
+        "bank_name": "Axis",
+        "offer_details_text": "Enjoy a complimentary domestic airport lounge access once per quarter.",
+        "eligibility_criteria": "For eligible Axis Bank Debit Cardholders. Min spend of ₹5,000 in previous month.",
+        "benefit_type": "lounge_access",
+        "benefit_multiplier": null,
+        "maximum_benefit": null,
+        "minimum_spend": 5000,
+        "minimum_salary": 30000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Domestic airport lounges"
+        ]
+    },
+    {
+        "offer_id": "TRV-AXIS-018",
+        "offer_name": "Axis Bank Cleartrip Offer",
+        "offer_type": "travel",
+        "bank_name": "Axis",
+        "offer_details_text": "Get a flat 10% instant discount on all hotel bookings on Cleartrip. No max limit.",
+        "eligibility_criteria": "Valid on Axis Bank Credit Cards. Min booking value is ₹2,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": null,
+        "minimum_spend": 2000,
+        "minimum_salary": 35000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Cleartrip"
+        ]
+    },
+    {
+        "offer_id": "GRO-HDFC-019",
+        "offer_name": "HDFC Bank Swiggy Instamart Offer",
+        "offer_type": "groceries",
+        "bank_name": "HDFC",
+        "offer_details_text": "Receive 10% instant discount on grocery orders from Swiggy Instamart. Max discount is ₹150.",
+        "eligibility_criteria": "Valid on HDFC Bank Credit and Debit Cards. Min order ₹1,000, once per month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 150,
+        "minimum_spend": 1000,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Swiggy Instamart"
+        ]
+    },
+    {
+        "offer_id": "GRO-HDFC-020",
+        "offer_name": "HDFC Card BigBasket Discount",
+        "offer_type": "groceries",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get a flat ₹200 discount on a grocery order of ₹2,500 or more on BigBasket.",
+        "eligibility_criteria": "Valid on HDFC Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 200,
+        "minimum_spend": 2500,
+        "minimum_salary": 20000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "BigBasket"
+        ]
+    },
+    {
+        "offer_id": "FUEL-SBI-021",
+        "offer_name": "SBI Cashback Fuel Offer",
+        "offer_type": "fuel",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat ₹50 cashback on fuel spends of ₹700 or more. Limited to once per month.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": null,
+        "maximum_benefit": 50,
+        "minimum_spend": 700,
+        "minimum_salary": 15000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "All petrol pumps"
+        ]
+    },
+    {
+        "offer_id": "FUEL-SBI-022",
+        "offer_name": "SBI BPCL Fuel Card",
+        "offer_type": "fuel",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a 1% fuel surcharge waiver on transactions between ₹500 and ₹3,000 at any BPCL pump.",
+        "eligibility_criteria": "Valid on BPCL SBI Co-branded Credit Cards.",
+        "benefit_type": "surcharge_waiver",
+        "benefit_multiplier": 0.01,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 25000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "BPCL Petrol Pumps"
+        ]
+    },
+    {
+        "offer_id": "BIL-ICICI-023",
+        "offer_name": "ICICI Bank BillPay Cashback",
+        "offer_type": "bills",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get 5% cashback on your first-ever utility bill payment on the ICICI Bank app. Max cashback ₹150.",
+        "eligibility_criteria": "For first-time users of the bill pay feature. Min bill value ₹500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 150,
+        "minimum_spend": 500,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "All major utility providers"
+        ]
+    },
+    {
+        "offer_id": "BIL-ICICI-024",
+        "offer_name": "ICICI Bank Fastag Recharge",
+        "offer_type": "bills",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹50 cashback on your first FASTag recharge of the month. Min recharge ₹500.",
+        "eligibility_criteria": "Valid on ICICI Bank FASTag recharge done via the iMobile app.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": null,
+        "maximum_benefit": 50,
+        "minimum_spend": 500,
+        "minimum_salary": 15000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "ICICI FASTag"
+        ]
+    },
+    {
+        "offer_id": "DIN-AXIS-025",
+        "offer_name": "Axis Bank Swiggy Discount",
+        "offer_type": "dining",
+        "bank_name": "Axis",
+        "offer_details_text": "Get a flat 20% discount on food orders from Swiggy. Maximum discount is ₹125.",
+        "eligibility_criteria": "Valid on Axis Bank Credit and Debit Cards. Can be used twice a month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 125,
+        "minimum_spend": 250,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Swiggy"
+        ]
+    },
+    {
+        "offer_id": "DIN-AXIS-026",
+        "offer_name": "Axis Bank EazyDiner Offer",
+        "offer_type": "dining",
+        "bank_name": "Axis",
+        "offer_details_text": "Enjoy an exclusive 15% discount at select restaurants via EazyDiner.",
+        "eligibility_criteria": "Valid on Axis Bank Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 1000,
+        "minimum_spend": 500,
+        "minimum_salary": 30000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "EazyDiner"
+        ]
+    },
+    {
+        "offer_id": "ENT-HDFC-027",
+        "offer_name": "HDFC Times Card Movie Offer",
+        "offer_type": "entertainment",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get a 'Buy One Get One Free' offer on movie tickets at BookMyShow on weekends. Max discount ₹250 per ticket.",
+        "eligibility_criteria": "Valid on HDFC Times Card.",
+        "benefit_type": "bogo",
+        "benefit_multiplier": 1.0,
+        "maximum_benefit": 250,
+        "minimum_spend": 250,
+        "minimum_salary": 45000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "BookMyShow"
+        ]
+    },
+    {
+        "offer_id": "ENT-HDFC-028",
+        "offer_name": "HDFC Bank PVR Cinemas",
+        "offer_type": "entertainment",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 20% instant discount on movie tickets at PVR Cinemas. Max discount is ₹200.",
+        "eligibility_criteria": "Valid on HDFC Bank Movie Card Credit Cards. Min booking 2 tickets.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 200,
+        "minimum_spend": 400,
+        "minimum_salary": 30000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "PVR Cinemas"
+        ]
+    },
+    {
+        "offer_id": "SHO-SBI-029",
+        "offer_name": "SBI Card Croma Discount",
+        "offer_type": "shopping",
+        "bank_name": "SBI",
+        "offer_details_text": "Enjoy a flat ₹1,000 instant discount on electronics purchases of ₹15,000 or more at Croma stores.",
+        "eligibility_criteria": "Valid on SBI Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 1000,
+        "minimum_spend": 15000,
+        "minimum_salary": 40000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Croma"
+        ]
+    },
+    {
+        "offer_id": "SHO-SBI-030",
+        "offer_name": "SBI Card Myntra Discount",
+        "offer_type": "shopping",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat 10% instant discount on fashion purchases on Myntra. Min transaction value is ₹2,000.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 500,
+        "minimum_spend": 2000,
+        "minimum_salary": 25000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "TRV-SBI-031",
+        "offer_name": "SBI Card EaseMyTrip Offer",
+        "offer_type": "travel",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat ₹500 instant discount on domestic flight bookings on EaseMyTrip.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards. Min booking value is ₹5,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 500,
+        "minimum_spend": 5000,
+        "minimum_salary": 30000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "EaseMyTrip"
+        ]
+    },
+    {
+        "offer_id": "TRV-SBI-032",
+        "offer_name": "SBI Card Goibibo Offer",
+        "offer_type": "travel",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat 10% instant discount on domestic hotel bookings on Goibibo. Min booking value is ₹3,000.",
+        "eligibility_criteria": "Valid on SBI Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 1000,
+        "minimum_spend": 3000,
+        "minimum_salary": 25000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Goibibo"
+        ]
+    },
+    {
+        "offer_id": "GRO-AXIS-033",
+        "offer_name": "Axis Bank Supermarket Bonus",
+        "offer_type": "groceries",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 5% cashback on all spends at supermarkets like Reliance Fresh, D-Mart, and More.",
+        "eligibility_criteria": "Valid on all Axis Bank Debit Cards. Once per week.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 250,
+        "minimum_spend": 1000,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Reliance Fresh",
+            "D-Mart",
+            "More"
+        ]
+    },
+    {
+        "offer_id": "GRO-AXIS-034",
+        "offer_name": "Axis Bank Blinkit Discount",
+        "offer_type": "groceries",
+        "bank_name": "Axis",
+        "offer_details_text": "Get a flat 10% instant discount on grocery orders from Blinkit. Max discount is ₹125.",
+        "eligibility_criteria": "Valid on all Axis Bank Credit Cards. Twice a month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 125,
+        "minimum_spend": 800,
+        "minimum_salary": 20000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "Blinkit"
+        ]
+    },
+    {
+        "offer_id": "FUEL-HDFC-035",
+        "offer_name": "HDFC Bharat Petroleum Offer",
+        "offer_type": "fuel",
+        "bank_name": "HDFC",
+        "offer_details_text": "Earn 5% cashback on all fuel spends at Bharat Petroleum pumps. Includes a 1% surcharge waiver.",
+        "eligibility_criteria": "Valid on HDFC Bank Bharat Petroleum Co-branded Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 250,
+        "minimum_spend": 200,
+        "minimum_salary": 30000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "Bharat Petroleum"
+        ]
+    },
+    {
+        "offer_id": "FUEL-HDFC-036",
+        "offer_name": "HDFC Fuel Surcharge Waiver",
+        "offer_type": "fuel",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get a 1% surcharge waiver on fuel transactions up to ₹5,000 at any petrol pump. Max waiver ₹100.",
+        "eligibility_criteria": "Valid on all HDFC Bank Credit Cards.",
+        "benefit_type": "surcharge_waiver",
+        "benefit_multiplier": 0.01,
+        "maximum_benefit": 100,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "All petrol pumps"
+        ]
+    },
+    {
+        "offer_id": "BIL-SBI-037",
+        "offer_name": "SBI Card Easy Bill Pay",
+        "offer_type": "bills",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 5% cashback on all utility bill payments of ₹2,000 or more via the SBI Card website. Max cashback ₹150.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 150,
+        "minimum_spend": 2000,
+        "minimum_salary": 25000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "All major utility billers"
+        ]
+    },
+    {
+        "offer_id": "BIL-SBI-038",
+        "offer_name": "SBI Card Electricity Bill Offer",
+        "offer_type": "bills",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat ₹75 discount on an electricity bill payment of ₹1,500 or more. Limited to once per month.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 75,
+        "minimum_spend": 1500,
+        "minimum_salary": 18000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "All major electricity boards"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-039",
+        "offer_name": "ICICI Bank Dining Discount",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Enjoy a flat 15% discount on dining at all participating restaurants. Max discount of ₹500.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 500,
+        "minimum_spend": 1000,
+        "minimum_salary": 25000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Participating restaurants"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-040",
+        "offer_name": "ICICI Card Swiggy Discount",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat 20% instant discount on food orders from Swiggy. Maximum discount is ₹150 per order.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards. Can be used twice a month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 150,
+        "minimum_spend": 250,
+        "minimum_salary": 15000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Swiggy"
+        ]
+    },
+    {
+        "offer_id": "ENT-AXIS-041",
+        "offer_name": "Axis Bank PVR Cinemas Offer",
+        "offer_type": "entertainment",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 15% instant discount on movie tickets at PVR Cinemas on weekends. Max discount is ₹200.",
+        "eligibility_criteria": "Valid on all Axis Bank Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 200,
+        "minimum_spend": 400,
+        "minimum_salary": 25000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "PVR Cinemas"
+        ]
+    },
+    {
+        "offer_id": "ENT-AXIS-042",
+        "offer_name": "Axis Bank BookMyShow Offer",
+        "offer_type": "entertainment",
+        "bank_name": "Axis",
+        "offer_details_text": "Get a 'Buy One Get One Free' offer on movie tickets at BookMyShow. Max discount ₹250 per ticket.",
+        "eligibility_criteria": "Applicable on select Axis Bank Credit Cards. Twice a month.",
+        "benefit_type": "bogo",
+        "benefit_multiplier": 1.0,
+        "maximum_benefit": 250,
+        "minimum_spend": 250,
+        "minimum_salary": 40000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "BookMyShow"
+        ]
+    },
+    {
+        "offer_id": "SHO-AXIS-043",
+        "offer_name": "Axis Bank Flipkart Cashback",
+        "offer_type": "shopping",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 5% unlimited cashback on all Flipkart purchases. The cashback is credited directly.",
+        "eligibility_criteria": "Valid only on Flipkart Axis Bank Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": null,
+        "minimum_spend": 1,
+        "minimum_salary": 40000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "Flipkart"
+        ]
+    },
+    {
+        "offer_id": "SHO-AXIS-044",
+        "offer_name": "Axis Bank Myntra Lifestyle Offer",
+        "offer_type": "shopping",
+        "bank_name": "Axis",
+        "offer_details_text": "Receive 10% instant discount on all purchases at Myntra. No minimum transaction value.",
+        "eligibility_criteria": "Valid on all Axis Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 500,
+        "minimum_spend": 1,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-045",
+        "offer_name": "ICICI IRCTC Credit Card",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get 10% value back as reward points on train ticket bookings on the IRCTC website.",
+        "eligibility_criteria": "Valid on ICICI Bank IRCTC Co-branded Credit Cards.",
+        "benefit_type": "reward_points",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": null,
+        "minimum_spend": 1,
+        "minimum_salary": 35000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "IRCTC"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-046",
+        "offer_name": "ICICI Bank Goibibo Offer",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹750 instant discount on domestic hotel bookings on Goibibo.",
+        "eligibility_criteria": "Valid on ICICI Bank Debit Cards. Min booking value is ₹5,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 750,
+        "minimum_spend": 5000,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Goibibo"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-047",
+        "offer_name": "SBI Card Flipkart Supermart",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Receive 5% cashback on all grocery orders from Flipkart Supermart. No minimum.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 200,
+        "minimum_spend": 1,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Flipkart Supermart"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-048",
+        "offer_name": "SBI Card Reliance Fresh Bonus",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Earn 5% cashback on purchases at Reliance Fresh on weekends. Max cashback ₹100 per day.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards. Transactions must be on Saturday or Sunday.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 18000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "Reliance Fresh"
+        ]
+    },
+    {
+        "offer_id": "FUEL-HDFC-049",
+        "offer_name": "HDFC IOCL Fuel Card",
+        "offer_type": "fuel",
+        "bank_name": "HDFC",
+        "offer_details_text": "Earn 5% cashback on fuel spends at Indian Oil Corporation Limited (IOCL) pumps. Includes 1% surcharge waiver.",
+        "eligibility_criteria": "Valid on HDFC Bank IOCL Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 250,
+        "minimum_spend": 200,
+        "minimum_salary": 35000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "IOCL Petrol Pumps"
+        ]
+    },
+    {
+        "offer_id": "FUEL-HDFC-050",
+        "offer_name": "HDFC Petrol Pump Surcharge Waiver",
+        "offer_type": "fuel",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get a 1% surcharge waiver on fuel transactions up to ₹5,000 at any petrol pump. Max waiver ₹100.",
+        "eligibility_criteria": "Valid on all HDFC Bank Credit Cards.",
+        "benefit_type": "surcharge_waiver",
+        "benefit_multiplier": 0.01,
+        "maximum_benefit": 100,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "All petrol pumps"
+        ]
+    },
+    {
+        "offer_id": "BIL-ICICI-051",
+        "offer_name": "ICICI BillPay Cashback",
+        "offer_type": "bills",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get 5% cashback on first-ever utility bill payment on the ICICI Bank mobile app. Max cashback ₹150.",
+        "eligibility_criteria": "For first-time users of the bill pay feature. Min bill value ₹500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 150,
+        "minimum_spend": 500,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "All major utility providers"
+        ]
+    },
+    {
+        "offer_id": "BIL-ICICI-052",
+        "offer_name": "ICICI Bank FASTag Recharge",
+        "offer_type": "bills",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹50 cashback on your first FASTag recharge of the month. Min recharge ₹500.",
+        "eligibility_criteria": "Valid on ICICI Bank FASTag recharge via the iMobile app.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": null,
+        "maximum_benefit": 50,
+        "minimum_spend": 500,
+        "minimum_salary": 15000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "ICICI FASTag"
+        ]
+    },
+    {
+        "offer_id": "DIN-HDFC-053",
+        "offer_name": "HDFC Card Swiggy Discount",
+        "offer_type": "dining",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get a flat 20% discount on food orders from Swiggy. Maximum discount is ₹125.",
+        "eligibility_criteria": "Valid on HDFC Bank Debit and Credit Cards. Twice a month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 125,
+        "minimum_spend": 250,
+        "minimum_salary": 15000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Swiggy"
+        ]
+    },
+    {
+        "offer_id": "DIN-HDFC-054",
+        "offer_name": "HDFC Bank Zomato Discount",
+        "offer_type": "dining",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 15% instant discount on food orders on Zomato. Max discount is ₹125.",
+        "eligibility_criteria": "Valid on HDFC SimplyCLICK and SimplySAVE Credit Cards. Once per month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 125,
+        "minimum_spend": 500,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Zomato"
+        ]
+    },
+    {
+        "offer_id": "ENT-AXIS-055",
+        "offer_name": "Axis Bank BookMyShow Offer",
+        "offer_type": "entertainment",
+        "bank_name": "Axis",
+        "offer_details_text": "Get a 'Buy One Get One Free' offer on movie tickets at BookMyShow. Max discount ₹250 per ticket.",
+        "eligibility_criteria": "Applicable on select Axis Bank Credit Cards. Twice a month.",
+        "benefit_type": "bogo",
+        "benefit_multiplier": 1.0,
+        "maximum_benefit": 250,
+        "minimum_spend": 250,
+        "minimum_salary": 40000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "BookMyShow"
+        ]
+    },
+    {
+        "offer_id": "ENT-AXIS-056",
+        "offer_name": "Axis Bank PVR Cinemas Offer",
+        "offer_type": "entertainment",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 15% instant discount on movie tickets at PVR Cinemas on weekends. Max discount is ₹200.",
+        "eligibility_criteria": "Valid on all Axis Bank Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 200,
+        "minimum_spend": 400,
+        "minimum_salary": 25000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "PVR Cinemas"
+        ]
+    },
+    {
+        "offer_id": "SHO-ICICI-057",
+        "offer_name": "ICICI Bank Croma Discount",
+        "offer_type": "shopping",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get 10% instant discount on all electronics at Croma. Max discount of ₹2,000.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit Cards. Min transaction ₹10,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 2000,
+        "minimum_spend": 10000,
+        "minimum_salary": 45000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Croma"
+        ]
+    },
+    {
+        "offer_id": "SHO-ICICI-058",
+        "offer_name": "ICICI Card Myntra Offer",
+        "offer_type": "shopping",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat 12% instant discount on fashion purchases on Myntra. Max discount is ₹750.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards. Min transaction ₹3,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.12,
+        "maximum_benefit": 750,
+        "minimum_spend": 3000,
+        "minimum_salary": 25000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "TRV-SBI-059",
+        "offer_name": "SBI Card Makemytrip Offer",
+        "offer_type": "travel",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat ₹750 discount on domestic flight bookings on MakeMyTrip. Min booking value ₹7,000.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 750,
+        "minimum_spend": 7000,
+        "minimum_salary": 30000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "MakeMyTrip"
+        ]
+    },
+    {
+        "offer_id": "TRV-SBI-060",
+        "offer_name": "SBI Card Goibibo Offer",
+        "offer_type": "travel",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 10% instant discount on domestic hotel bookings on Goibibo. Min booking value is ₹3,000.",
+        "eligibility_criteria": "Valid on SBI Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 1000,
+        "minimum_spend": 3000,
+        "minimum_salary": 25000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Goibibo"
+        ]
+    },
+    {
+        "offer_id": "GRO-HDFC-061",
+        "offer_name": "HDFC Card BigBasket Bonus",
+        "offer_type": "groceries",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get a flat ₹200 discount on a grocery order of ₹2,500 or more on BigBasket.",
+        "eligibility_criteria": "Valid on HDFC Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 200,
+        "minimum_spend": 2500,
+        "minimum_salary": 20000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "BigBasket"
+        ]
+    },
+    {
+        "offer_id": "GRO-HDFC-062",
+        "offer_name": "HDFC Bank Blinkit Offer",
+        "offer_type": "groceries",
+        "bank_name": "HDFC",
+        "offer_details_text": "Receive 10% instant discount on grocery orders from Blinkit. Max discount is ₹125.",
+        "eligibility_criteria": "Valid on HDFC Bank Credit and Debit Cards. Min order ₹1,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 125,
+        "minimum_spend": 1000,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Blinkit"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-063",
+        "offer_name": "Axis Bank Fuel Cashback",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 5% cashback on fuel spends on weekends. Max cashback is ₹100 per transaction.",
+        "eligibility_criteria": "Valid on all Axis Bank Debit Cards. Min spend ₹500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 18000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "All petrol pumps"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-064",
+        "offer_name": "Axis Bank BPCL Fuel Offer",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Get a flat ₹50 cashback on fuel spends of ₹1,000 or more at any BPCL pump.",
+        "eligibility_criteria": "Valid on Axis Bank Credit Cards. Limited daily.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": null,
+        "maximum_benefit": 50,
+        "minimum_spend": 1000,
+        "minimum_salary": 25000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "BPCL Petrol Pumps"
+        ]
+    },
+    {
+        "offer_id": "BIL-SBI-065",
+        "offer_name": "SBI Card Electricity Bill Offer",
+        "offer_type": "bills",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat ₹75 discount on an electricity bill payment of ₹1,500 or more. Limited to once per month.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 75,
+        "minimum_spend": 1500,
+        "minimum_salary": 18000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "All major electricity boards"
+        ]
+    },
+    {
+        "offer_id": "BIL-SBI-066",
+        "offer_name": "SBI Card Easy Bill Pay",
+        "offer_type": "bills",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 5% cashback on all utility bill payments of ₹2,000 or more via the SBI Card website. Max cashback ₹150.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 150,
+        "minimum_spend": 2000,
+        "minimum_salary": 25000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "All major utility billers"
+        ]
+    },
+    {
+        "offer_id": "DIN-SBI-067",
+        "offer_name": "SBI Card Dineout Offer",
+        "offer_type": "dining",
+        "bank_name": "SBI",
+        "offer_details_text": "Get up to 20% discount at participating restaurants. Min spend of ₹1,000.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 500,
+        "minimum_spend": 1000,
+        "minimum_salary": 25000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Participating restaurants"
+        ]
+    },
+    {
+        "offer_id": "DIN-SBI-068",
+        "offer_name": "SBI Card Zomato Discount",
+        "offer_type": "dining",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a flat 15% instant discount on food orders from Zomato. Max discount is ₹125.",
+        "eligibility_criteria": "Valid on SBI SimplyCLICK and SimplySAVE Credit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 125,
+        "minimum_spend": 500,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Zomato"
+        ]
+    },
+    {
+        "offer_id": "ENT-ICICI-069",
+        "offer_name": "ICICI Bank PVR Cinemas",
+        "offer_type": "entertainment",
+        "bank_name": "ICICI",
+        "offer_details_text": "Enjoy a 'Buy One Get One Free' offer on movie tickets at PVR Cinemas on weekends. Max discount ₹200.",
+        "eligibility_criteria": "Valid on ICICI Bank Rubyx Credit Cards. Twice a month.",
+        "benefit_type": "bogo",
+        "benefit_multiplier": 1.0,
+        "maximum_benefit": 200,
+        "minimum_spend": 200,
+        "minimum_salary": 35000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "PVR Cinemas"
+        ]
+    },
+    {
+        "offer_id": "ENT-ICICI-070",
+        "offer_name": "ICICI Card BookMyShow Offer",
+        "offer_type": "entertainment",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat 25% discount on movie tickets on BookMyShow. Max discount is ₹100.",
+        "eligibility_criteria": "Valid on ICICI Bank Debit Cards. Min booking ₹400.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.25,
+        "maximum_benefit": 100,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "BookMyShow"
+        ]
+    },
+    {
+        "offer_id": "SHO-HDFC-071",
+        "offer_name": "HDFC SmartBuy Myntra Offer",
+        "offer_type": "shopping",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 10% instant discount on fashion and accessories on Myntra. Max discount is ₹750.",
+        "eligibility_criteria": "Valid on HDFC Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 750,
+        "minimum_spend": 2500,
+        "minimum_salary": 25000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "SHO-HDFC-072",
+        "offer_name": "HDFC Festive Shopping Fiesta",
+        "offer_type": "shopping",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 10% instant discount on electronics and fashion. Max discount is ₹2,000.",
+        "eligibility_criteria": "Valid on HDFC Credit Cards. Min transaction ₹7,500.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 2000,
+        "minimum_spend": 7500,
+        "minimum_salary": 40000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Croma",
+            "Vijay Sales",
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-073",
+        "offer_name": "ICICI MakeMyTrip Travel Rewards",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Earn 5x reward points on all international flight and hotel bookings on MakeMyTrip.",
+        "eligibility_criteria": "Applicable on ICICI Bank Sapphiro and Coral Credit Cards. Annual fee applies.",
+        "benefit_type": "reward_points",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": null,
+        "minimum_spend": 1000,
+        "minimum_salary": 75000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "MakeMyTrip"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-074",
+        "offer_name": "ICICI Goibibo Domestic Discount",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹750 instant discount on domestic hotel bookings on Goibibo.",
+        "eligibility_criteria": "Valid on ICICI Bank Debit Cards. Min booking value is ₹5,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 750,
+        "minimum_spend": 5000,
+        "minimum_salary": 20000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "Goibibo"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-075",
+        "offer_name": "SBI Card BigBasket Bonus",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 10% cashback on all grocery purchases at BigBasket. Maximum cashback is ₹200.",
+        "eligibility_criteria": "Valid for all SBI Credit Card users. Min transaction ₹1,500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 200,
+        "minimum_spend": 1500,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "BigBasket"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-076",
+        "offer_name": "SBI Card More Retail Discount",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Enjoy a 7.5% instant discount on purchases at More retail stores. Minimum transaction ₹2,000.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards. Once per week.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.075,
+        "maximum_benefit": 300,
+        "minimum_spend": 2000,
+        "minimum_salary": 20000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "More Retail Stores"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-077",
+        "offer_name": "Axis Bank Fuel Surcharge Waiver",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Enjoy a 1% fuel surcharge waiver on transactions between ₹400 and ₹4,000 at any petrol pump.",
+        "eligibility_criteria": "Valid on all Axis Bank Credit and Debit Cards. Capped at ₹400 per cycle.",
+        "benefit_type": "surcharge_waiver",
+        "benefit_multiplier": 0.01,
+        "maximum_benefit": 400,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "All petrol pumps"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-078",
+        "offer_name": "Axis Bank IOCL Fuel Card",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 2.5% cashback on all fuel spends at IOCL pumps. Minimum transaction of ₹500.",
+        "eligibility_criteria": "Valid on Axis Bank IOCL Co-branded Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.025,
+        "maximum_benefit": 200,
+        "minimum_spend": 500,
+        "minimum_salary": 30000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "IOCL Petrol Pumps"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-079",
+        "offer_name": "ICICI Zomato Dining Offer",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat 20% discount on food orders from Zomato. Maximum discount is ₹150.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards. Can be used twice a month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 150,
+        "minimum_spend": 250,
+        "minimum_salary": 15000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "Zomato"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-080",
+        "offer_name": "ICICI Bank Culinary Treats",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Enjoy 15% off at all participating restaurants. Maximum discount of ₹500.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 500,
+        "minimum_spend": 1000,
+        "minimum_salary": 30000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Various Restaurants"
+        ]
+    },
+    {
+        "offer_id": "ENT-SBI-081",
+        "offer_name": "SBI Card BookMyShow Offer",
+        "offer_type": "entertainment",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 15% instant discount on movie tickets on BookMyShow. Max discount is ₹200.",
+        "eligibility_criteria": "Valid on SBI SimplyCLICK Credit Cards. Min booking ₹400.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 200,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "BookMyShow"
+        ]
+    },
+    {
+        "offer_id": "ENT-SBI-082",
+        "offer_name": "SBI Card PVR Cinemas BOGO",
+        "offer_type": "entertainment",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a 'Buy One Get One Free' offer on movie tickets at PVR Cinemas on weekends. Max discount is ₹250 per ticket.",
+        "eligibility_criteria": "Valid on SBI Prime Credit Cards.",
+        "benefit_type": "bogo",
+        "benefit_multiplier": 1.0,
+        "maximum_benefit": 250,
+        "minimum_spend": 250,
+        "minimum_salary": 60000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "PVR Cinemas"
+        ]
+    },
+    {
+        "offer_id": "BIL-HDFC-083",
+        "offer_name": "HDFC BillPay Rewards",
+        "offer_type": "bills",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 5% cashback on utility bill payments via the HDFC Bank app. Max cashback of ₹100.",
+        "eligibility_criteria": "For all HDFC Bank account holders. Min bill value ₹500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 15000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "All major utility providers"
+        ]
+    },
+    {
+        "offer_id": "BIL-HDFC-084",
+        "offer_name": "HDFC Fastag Recharge Offer",
+        "offer_type": "bills",
+        "bank_name": "HDFC",
+        "offer_details_text": "Earn 20% cashback on your first FASTag recharge of the month. Max cashback is ₹100.",
+        "eligibility_criteria": "For all HDFC Bank FASTag users.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "HDFC FASTag"
+        ]
+    },
+    {
+        "offer_id": "SHO-HDFC-085",
+        "offer_name": "HDFC SmartBuy Myntra Offer",
+        "offer_type": "shopping",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 15% instant discount on fashion on Myntra. Maximum discount is ₹750.",
+        "eligibility_criteria": "Valid on HDFC Bank Credit and Debit Cards. Min transaction ₹2,500.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 750,
+        "minimum_spend": 2500,
+        "minimum_salary": 25000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "SHO-HDFC-086",
+        "offer_name": "HDFC Festive Shopping Fiesta",
+        "offer_type": "shopping",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 10% instant discount on electronics and fashion. Max discount is ₹2,000.",
+        "eligibility_criteria": "Valid on HDFC Credit Cards. Min transaction ₹7,500.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 2000,
+        "minimum_spend": 7500,
+        "minimum_salary": 40000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "Croma",
+            "Vijay Sales",
+            "Myntra"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-087",
+        "offer_name": "ICICI MakeMyTrip Travel Rewards",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Earn 5x reward points on all international flight and hotel bookings on MakeMyTrip.",
+        "eligibility_criteria": "Applicable on ICICI Bank Sapphiro and Coral Credit Cards. Annual fee applies.",
+        "benefit_type": "reward_points",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": null,
+        "minimum_spend": 1000,
+        "minimum_salary": 75000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "MakeMyTrip"
+        ]
+    },
+    {
+        "offer_id": "TRV-ICICI-088",
+        "offer_name": "ICICI Goibibo Domestic Discount",
+        "offer_type": "travel",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹750 instant discount on domestic hotel bookings on Goibibo.",
+        "eligibility_criteria": "Valid on ICICI Bank Debit Cards. Min booking value is ₹5,000.",
+        "benefit_type": "discount",
+        "benefit_multiplier": null,
+        "maximum_benefit": 750,
+        "minimum_spend": 5000,
+        "minimum_salary": 20000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "Goibibo"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-089",
+        "offer_name": "SBI Card BigBasket Bonus",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 10% cashback on all grocery purchases at BigBasket. Maximum cashback is ₹200.",
+        "eligibility_criteria": "Valid for all SBI Credit Card users. Min transaction ₹1,500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.10,
+        "maximum_benefit": 200,
+        "minimum_spend": 1500,
+        "minimum_salary": 15000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "BigBasket"
+        ]
+    },
+    {
+        "offer_id": "GRO-SBI-090",
+        "offer_name": "SBI Card More Retail Discount",
+        "offer_type": "groceries",
+        "bank_name": "SBI",
+        "offer_details_text": "Enjoy a 7.5% instant discount on purchases at More retail stores. Minimum transaction ₹2,000.",
+        "eligibility_criteria": "Valid on all SBI Credit Cards. Once per week.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.075,
+        "maximum_benefit": 300,
+        "minimum_spend": 2000,
+        "minimum_salary": 20000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "More Retail Stores"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-091",
+        "offer_name": "Axis Bank Fuel Surcharge Waiver",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Enjoy a 1% fuel surcharge waiver on transactions between ₹400 and ₹4,000 at any petrol pump.",
+        "eligibility_criteria": "Valid on all Axis Bank Credit and Debit Cards. Capped at ₹400 per cycle.",
+        "benefit_type": "surcharge_waiver",
+        "benefit_multiplier": 0.01,
+        "maximum_benefit": 400,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "All petrol pumps"
+        ]
+    },
+    {
+        "offer_id": "FUEL-AXIS-092",
+        "offer_name": "Axis Bank IOCL Fuel Card",
+        "offer_type": "fuel",
+        "bank_name": "Axis",
+        "offer_details_text": "Get 2.5% cashback on all fuel spends at IOCL pumps. Minimum transaction of ₹500.",
+        "eligibility_criteria": "Valid on Axis Bank IOCL Co-branded Credit Cards.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.025,
+        "maximum_benefit": 200,
+        "minimum_spend": 500,
+        "minimum_salary": 30000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "IOCL Petrol Pumps"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-093",
+        "offer_name": "ICICI Zomato Dining Offer",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat 20% discount on food orders from Zomato. Maximum discount is ₹150.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards. Can be used twice a month.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 150,
+        "minimum_spend": 250,
+        "minimum_salary": 15000,
+        "priority_score": 88,
+        "applicable_merchants": [
+            "Zomato"
+        ]
+    },
+    {
+        "offer_id": "DIN-ICICI-094",
+        "offer_name": "ICICI Bank Culinary Treats",
+        "offer_type": "dining",
+        "bank_name": "ICICI",
+        "offer_details_text": "Enjoy 15% off at all participating restaurants. Maximum discount of ₹500.",
+        "eligibility_criteria": "Valid on ICICI Bank Credit and Debit Cards.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 500,
+        "minimum_spend": 1000,
+        "minimum_salary": 30000,
+        "priority_score": 92,
+        "applicable_merchants": [
+            "Various Restaurants"
+        ]
+    },
+    {
+        "offer_id": "ENT-SBI-095",
+        "offer_name": "SBI Card BookMyShow Offer",
+        "offer_type": "entertainment",
+        "bank_name": "SBI",
+        "offer_details_text": "Get 15% instant discount on movie tickets on BookMyShow. Max discount is ₹200.",
+        "eligibility_criteria": "Valid on SBI SimplyCLICK Credit Cards. Min booking ₹400.",
+        "benefit_type": "discount",
+        "benefit_multiplier": 0.15,
+        "maximum_benefit": 200,
+        "minimum_spend": 400,
+        "minimum_salary": 20000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "BookMyShow"
+        ]
+    },
+    {
+        "offer_id": "ENT-SBI-096",
+        "offer_name": "SBI Card PVR Cinemas BOGO",
+        "offer_type": "entertainment",
+        "bank_name": "SBI",
+        "offer_details_text": "Get a 'Buy One Get One Free' offer on movie tickets at PVR Cinemas on weekends. Max discount is ₹250 per ticket.",
+        "eligibility_criteria": "Valid on SBI Prime Credit Cards.",
+        "benefit_type": "bogo",
+        "benefit_multiplier": 1.0,
+        "maximum_benefit": 250,
+        "minimum_spend": 250,
+        "minimum_salary": 60000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "PVR Cinemas"
+        ]
+    },
+    {
+        "offer_id": "BIL-HDFC-097",
+        "offer_name": "HDFC BillPay Rewards",
+        "offer_type": "bills",
+        "bank_name": "HDFC",
+        "offer_details_text": "Get 5% cashback on utility bill payments via the HDFC Bank app. Max cashback of ₹100.",
+        "eligibility_criteria": "For all HDFC Bank account holders. Min bill value ₹500.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 15000,
+        "priority_score": 85,
+        "applicable_merchants": [
+            "All major utility providers"
+        ]
+    },
+    {
+        "offer_id": "BIL-HDFC-098",
+        "offer_name": "HDFC Fastag Recharge Offer",
+        "offer_type": "bills",
+        "bank_name": "HDFC",
+        "offer_details_text": "Earn 20% cashback on your first FASTag recharge of the month. Max cashback is ₹100.",
+        "eligibility_criteria": "For all HDFC Bank FASTag users.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.20,
+        "maximum_benefit": 100,
+        "minimum_spend": 500,
+        "minimum_salary": 20000,
+        "priority_score": 90,
+        "applicable_merchants": [
+            "HDFC FASTag"
+        ]
+    },
+    {
+        "offer_id": "SHO-ICICI-099",
+        "offer_name": "ICICI Amazon Pay Offer",
+        "offer_type": "shopping",
+        "bank_name": "ICICI",
+        "offer_details_text": "Earn 5% unlimited cashback on all Amazon purchases for Prime members.",
+        "eligibility_criteria": "Valid on Amazon Pay ICICI Bank Credit Card.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": 0.05,
+        "maximum_benefit": null,
+        "minimum_spend": 1,
+        "minimum_salary": 45000,
+        "priority_score": 95,
+        "applicable_merchants": [
+            "Amazon"
+        ]
+    },
+    {
+        "offer_id": "SHO-ICICI-100",
+        "offer_name": "ICICI Pockets App Shopping",
+        "offer_type": "shopping",
+        "bank_name": "ICICI",
+        "offer_details_text": "Get a flat ₹100 cashback on a shopping transaction of ₹1,000 or more via the Pockets app.",
+        "eligibility_criteria": "Valid for ICICI Pockets wallet users. Once per month.",
+        "benefit_type": "cashback",
+        "benefit_multiplier": null,
+        "maximum_benefit": 100,
+        "minimum_spend": 1000,
+        "minimum_salary": 10000,
+        "priority_score": 80,
+        "applicable_merchants": [
+            "All online merchants accepting Pockets"
+        ]
+    }
+]
