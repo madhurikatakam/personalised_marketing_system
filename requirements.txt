@@ -1,0 +1,15 @@
+pandas
+requests
+openpyxl
+pyarrow
+data-prep-toolkit-transforms[all]
+fastapi
+uvicorn
+numpy
+scikit-learn
+faker
+google-generativeai
+joblib
+pydantic
+python-multipart
+jinja2
